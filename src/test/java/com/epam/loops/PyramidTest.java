@@ -34,8 +34,7 @@ class PyramidTest extends BaseIOTest {
                32123
               4321234
              543212345
-            65432123456
-            """;
+            65432123456""";
 
         Pyramid pyramid = new Pyramid();
 
